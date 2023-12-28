@@ -39,5 +39,18 @@ In the initial preparation phase, I performed the following task
 8.	At 366770.00, Chicago had the highest Total Number of Flights and was 88.40% higher than Los Angeles, which had the lowest Total Number of Flights at 194673. 
 9.	At 366770.00, Chicago had the highest Total Number of Flights and was 1,078,635.29% higher than Ithaca, which had the lowest Total Number of Flights at 34. Chicago accounted for 6.88% of Total Number of Flights.
 
- ### Recomendations
+### Recomendations
+1.	Increase the number of flights on Saturdays to balance the distribution of flights throughout the week, considering Thursday has the highest total number of flights.
+2.	Evaluate the demand and profitability of flights on Thursdays to ensure that the higher number of flights is justified by passenger numbers and revenue.
+3.	Analyze the factors contributing to June having a higher percentage of delayed flights and implement strategies to mitigate these delays during this month.
+4.	Consider increasing the number of flights in February to match the higher demand in July, which has the highest total number of flights.
+5.	Investigate why a significant majority of flights are early and develop strategies to utilize this advantage, such as promoting the airline's punctuality in marketing campaigns.
+6.	Review the operational processes that lead to flights being early to ensure that this does not negatively impact customer satisfaction or resource utilization.
+7.	Implement more robust weather forecasting and monitoring systems to better anticipate and manage flight cancellations due to weather.
+8.	Develop contingency plans, such as flexible rebooking options and partnerships with other carriers, to minimize passenger inconvenience during weather-related disruptions.
+9.	Given Chicago's high total number of flights, ensure that the airport infrastructure is scaled to handle the traffic efficiently and to maintain a high level of service.
+10.	Analyze the operational flow in Chicago to identify any bottlenecks or inefficiencies that could be improved to handle the high volume of flights.
+11.	Investigate why Los Angeles has a significantly lower number of flights compared to Chicago despite being a major city and consider increasing flight frequency if there is unmet demand.
+12.	Evaluate the distribution of flights across different airports to optimize network efficiency and profitability, considering the extreme variance between cities like Chicago and Ithaca.
+
  
